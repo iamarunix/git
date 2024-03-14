@@ -5,3 +5,8 @@ git add <file>  (move files from working directory to staging directory)
 git status 
 git commit -m "commit message"
 git log 
+
+
+git remote add r1 https://github.com/iamarunix/git.git
+git branch -M main 
+git push -u r1 main 
