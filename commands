@@ -1,0 +1,7 @@
+git config --global user.name "arun nat"
+git config --global user.email ""arun.vmhss@gmail.com"
+git init (to initialize git repo)
+git add <file>  (move files from working directory to staging directory)
+git status 
+git commit -m "commit message"
+git log 
